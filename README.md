@@ -79,5 +79,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: V Rithwik
-- **Email**: [rithubittu031@gmail.com](mailto:rithubittu031@gmail.com)
+- **Name**: BHIMAVARAPU POOJITH REDDY
+- **Email**: [poojithreddy3158@gmail.com](mailto:poojithreddy3158@gmail.com)
